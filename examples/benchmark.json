@@ -1,0 +1,30 @@
+{
+  "analytical_tip_deflection_m": 0.014880952380952378,
+  "results": [
+    {
+      "elements": 4,
+      "tip_deflection_m": 0.01534598214285714,
+      "relative_error": 0.031250000000000014
+    },
+    {
+      "elements": 8,
+      "tip_deflection_m": 0.014997209821428568,
+      "relative_error": 0.007812499999999974
+    },
+    {
+      "elements": 16,
+      "tip_deflection_m": 0.014910016741071426,
+      "relative_error": 0.0019531250000000226
+    },
+    {
+      "elements": 32,
+      "tip_deflection_m": 0.01488821847098214,
+      "relative_error": 0.0004882812500000056
+    },
+    {
+      "elements": 64,
+      "tip_deflection_m": 0.01488276890345982,
+      "relative_error": 0.00012207031250008885
+    }
+  ]
+}
